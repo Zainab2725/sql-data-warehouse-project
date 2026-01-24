@@ -54,7 +54,7 @@ The warehouse supports advanced analytics, including:
 
 ## ☕ Stay Connected
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zainab-muhammad-25b86837b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zainab-muhammad-25b86837b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Your engagement and feedback are appreciated!  
 
