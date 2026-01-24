@@ -52,31 +52,6 @@ The warehouse supports advanced analytics, including:
 
 ---
 
-## 📂 Repository Structure
-data-warehouse-project/
-│
-├── datasets/ # Raw datasets for the project
-├── docs/ # Project documentation and diagrams
-│ ├── etl.drawio # ETL process diagrams
-│ ├── data_architecture.drawio
-│ ├── data_catalog.md # Dataset catalog and metadata
-│ ├── data_flow.drawio # Data flow diagrams
-│ ├── data_models.drawio # Star schema and models
-│ ├── naming-conventions.md # Table/column naming guidelines
-├── scripts/ # SQL scripts for ETL and transformations
-│ ├── bronze/ # Extract and load raw data
-│ ├── silver/ # Cleanse and transform data
-│ ├── gold/ # Build analytical models
-├── tests/ # Test scripts and quality checks
-├── README.md # Project overview and instructions
-├── LICENSE # License information
-├── .gitignore # Files and folders to ignore
-└── requirements.txt # Dependencies and tools
-
-
----
-
-
 ## ☕ Stay Connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zainab-muhammad-25b86837b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
